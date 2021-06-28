@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Infra.CrossCutting\\SmartPM.Infra.CrossCutting.csproj": {}
+    "C:\\SmartPM\\src\\SmartPM.Infra.CrossCutting\\SmartPM.Infra.CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Infra.CrossCutting\\SmartPM.Infra.CrossCutting.csproj": {
+    "C:\\SmartPM\\src\\SmartPM.Infra.CrossCutting\\SmartPM.Infra.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Infra.CrossCutting\\SmartPM.Infra.CrossCutting.csproj",
+        "projectUniqueName": "C:\\SmartPM\\src\\SmartPM.Infra.CrossCutting\\SmartPM.Infra.CrossCutting.csproj",
         "projectName": "SmartPM.Infra.CrossCutting",
-        "projectPath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Infra.CrossCutting\\SmartPM.Infra.CrossCutting.csproj",
+        "projectPath": "C:\\SmartPM\\src\\SmartPM.Infra.CrossCutting\\SmartPM.Infra.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\fmbju\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Infra.CrossCutting\\obj\\",
+        "outputPath": "C:\\SmartPM\\src\\SmartPM.Infra.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fmbju\\AppData\\Roaming\\NuGet\\NuGet.Config",

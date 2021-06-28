@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZfNxmdsa70HHJ1mkfb/NZHs4jVdDL54S4BHepAuvMpnvCsoGZ3YK9zpMMDmoLQdl6khMgbkit66zEHobk2SOrw==",
+  "dgSpecHash": "7nNbhL8ogIZY2r5yxzqdMxz/ARFRaz3TYONvzdQztZClp79IcgUVrQZUE/FQJ3mGBk1HwYm4KNH0WxJ6MjIuzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Infra.CrossCutting\\SmartPM.Infra.CrossCutting.csproj",
+  "projectFilePath": "C:\\SmartPM\\src\\SmartPM.Infra.CrossCutting\\SmartPM.Infra.CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

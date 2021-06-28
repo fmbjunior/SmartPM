@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Btwt0recTGcxBXz3t1Oaysu4XXXXCiNuYyj3TG5MpIRM3W9ZBzy0VzMFwG+Mv1xh4Du/MWjZkG2TfMbBWtoUfg==",
+  "dgSpecHash": "1zNt6/V67akmHrQKr/4DXazPPFTnfLJ5DpMC412iPJd0W6AwNTTfyOFc/nmLWR/Ik0ifu8fg2UKowku94QeRHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Service\\SmartPM.Service.csproj",
+  "projectFilePath": "C:\\SmartPM\\src\\SmartPM.Service\\SmartPM.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fmbju\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\fmbju\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",

@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Domain\\SmartPM.Domain.csproj",
+      "projectUniqueName": "C:\\SmartPM\\src\\SmartPM.Domain\\SmartPM.Domain.csproj",
       "projectName": "SmartPM.Domain",
-      "projectPath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Domain\\SmartPM.Domain.csproj",
+      "projectPath": "C:\\SmartPM\\src\\SmartPM.Domain\\SmartPM.Domain.csproj",
       "packagesPath": "C:\\Users\\fmbju\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Domain\\obj\\",
+      "outputPath": "C:\\SmartPM\\src\\SmartPM.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fmbju\\AppData\\Roaming\\NuGet\\NuGet.Config",

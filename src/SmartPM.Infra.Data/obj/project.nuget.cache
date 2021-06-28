@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mfP7tq5Xi+GWP10YVfHKSJFtRXZ8wrcWq913Ny0rvz1T+5NdW5i3l0QNSjHv2rkkhEZ1hz2AxQcup9F3GZq33g==",
+  "dgSpecHash": "tt8gmEtA0hX2qCVBRG4Wk15J9BMkss3NdBvG6I0vc9nrKUsR5W/zNLjHb3mazZ4BetLVIgWPLmZih8E96HFv5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Infra.Data\\SmartPM.Infra.Data.csproj",
+  "projectFilePath": "C:\\SmartPM\\src\\SmartPM.Infra.Data\\SmartPM.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fmbju\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\fmbju\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.2.3\\fluentvalidation.aspnetcore.10.2.3.nupkg.sha512",

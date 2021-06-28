@@ -317,11 +317,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Service\\SmartPM.Service.csproj",
+      "projectUniqueName": "C:\\SmartPM\\src\\SmartPM.Service\\SmartPM.Service.csproj",
       "projectName": "SmartPM.Service",
-      "projectPath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Service\\SmartPM.Service.csproj",
+      "projectPath": "C:\\SmartPM\\src\\SmartPM.Service\\SmartPM.Service.csproj",
       "packagesPath": "C:\\Users\\fmbju\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Service\\obj\\",
+      "outputPath": "C:\\SmartPM\\src\\SmartPM.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fmbju\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -338,8 +338,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Domain\\SmartPM.Domain.csproj": {
-              "projectPath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Domain\\SmartPM.Domain.csproj"
+            "C:\\SmartPM\\src\\SmartPM.Domain\\SmartPM.Domain.csproj": {
+              "projectPath": "C:\\SmartPM\\src\\SmartPM.Domain\\SmartPM.Domain.csproj"
             }
           }
         }

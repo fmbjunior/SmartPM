@@ -6086,11 +6086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.BackendApplication\\SmartPM.BackendApplication.csproj",
+      "projectUniqueName": "C:\\SmartPM\\src\\SmartPM.BackendApplication\\SmartPM.BackendApplication.csproj",
       "projectName": "SmartPM.BackendApplication",
-      "projectPath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.BackendApplication\\SmartPM.BackendApplication.csproj",
+      "projectPath": "C:\\SmartPM\\src\\SmartPM.BackendApplication\\SmartPM.BackendApplication.csproj",
       "packagesPath": "C:\\Users\\fmbju\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.BackendApplication\\obj\\",
+      "outputPath": "C:\\SmartPM\\src\\SmartPM.BackendApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fmbju\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6107,14 +6107,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Domain\\SmartPM.Domain.csproj": {
-              "projectPath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Domain\\SmartPM.Domain.csproj"
+            "C:\\SmartPM\\src\\SmartPM.Domain\\SmartPM.Domain.csproj": {
+              "projectPath": "C:\\SmartPM\\src\\SmartPM.Domain\\SmartPM.Domain.csproj"
             },
-            "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Infra.Data\\SmartPM.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Infra.Data\\SmartPM.Infra.Data.csproj"
+            "C:\\SmartPM\\src\\SmartPM.Infra.Data\\SmartPM.Infra.Data.csproj": {
+              "projectPath": "C:\\SmartPM\\src\\SmartPM.Infra.Data\\SmartPM.Infra.Data.csproj"
             },
-            "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Service\\SmartPM.Service.csproj": {
-              "projectPath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Service\\SmartPM.Service.csproj"
+            "C:\\SmartPM\\src\\SmartPM.Service\\SmartPM.Service.csproj": {
+              "projectPath": "C:\\SmartPM\\src\\SmartPM.Service\\SmartPM.Service.csproj"
             }
           }
         }
