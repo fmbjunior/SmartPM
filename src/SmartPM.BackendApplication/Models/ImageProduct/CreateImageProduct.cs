@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace SmartPM.Domain.Entities
+namespace SmartPM.BackendApplication.Models.ImageProduct
 {
-    public class ImageProduct : BaseEntity
+    public class CreateImageProduct
     {
         public int ProductId { get; set; }
-        public Product Product { get; set; }
         public string Path { get; set; }
     }
 }

@@ -16,6 +16,7 @@ namespace SmartPM.Infra.Data.Context
         }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<ImageProduct> ImagesProduct { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -25,6 +26,8 @@ namespace SmartPM.Infra.Data.Context
                 .Entity<Category>(new CategoryMap().Configure);
             modelBuilder
                 .Entity<Product>(new ProductMap().Configure);
+            modelBuilder
+                .Entity<ImageProduct>(new ImageProductMap().Configure);
         }
 
     }

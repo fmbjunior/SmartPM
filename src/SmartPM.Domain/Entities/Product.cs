@@ -11,6 +11,6 @@ namespace SmartPM.Domain.Entities
         public decimal SalePrice { get; set; }
         public int CategoryId { get; set; }
         public Category Category { get; set; }
-        //public List<ImageProduct> Images { get; set; }
+        public List<ImageProduct> Images { get; set; }
     }
 }
