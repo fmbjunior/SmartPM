@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LNhR0A/l5G6GrCZ+MMQuJXfwSHjPHFMGh28AOEI227cLikC5nIvMM+t9mdu/E8ug44+GCw8xXMMgwcluU/I4MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fmbju\\source\\repos\\SmartPM\\SmartPM.Domain\\SmartPM.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fmbju\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
+    "C:\\Users\\fmbju\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.2.3\\fluentvalidation.aspnetcore.10.2.3.nupkg.sha512",
+    "C:\\Users\\fmbju\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.2.3\\fluentvalidation.dependencyinjectionextensions.10.2.3.nupkg.sha512",
+    "C:\\Users\\fmbju\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Domain\bin\Debug\netcoreapp3.1\SmartPM.Domain.deps.json
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Domain\bin\Debug\netcoreapp3.1\SmartPM.Domain.dll
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Domain\bin\Debug\netcoreapp3.1\SmartPM.Domain.pdb
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Domain\obj\Debug\netcoreapp3.1\SmartPM.Domain.AssemblyInfoInputs.cache
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Domain\obj\Debug\netcoreapp3.1\SmartPM.Domain.AssemblyInfo.cs
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Domain\obj\Debug\netcoreapp3.1\SmartPM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Domain\obj\Debug\netcoreapp3.1\SmartPM.Domain.dll
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Domain\obj\Debug\netcoreapp3.1\SmartPM.Domain.pdb
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Domain\obj\Debug\netcoreapp3.1\SmartPM.Domain.csprojAssemblyReference.cache

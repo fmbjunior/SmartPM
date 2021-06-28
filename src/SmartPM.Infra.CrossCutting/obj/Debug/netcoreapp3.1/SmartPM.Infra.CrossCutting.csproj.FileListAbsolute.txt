@@ -1,0 +1,9 @@
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SmartPM.Infra.CrossCutting.deps.json
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SmartPM.Infra.CrossCutting.dll
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SmartPM.Infra.CrossCutting.pdb
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SmartPM.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SmartPM.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SmartPM.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SmartPM.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SmartPM.Infra.CrossCutting.dll
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SmartPM.Infra.CrossCutting.pdb

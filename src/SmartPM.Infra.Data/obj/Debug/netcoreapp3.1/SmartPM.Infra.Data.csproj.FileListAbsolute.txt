@@ -1,0 +1,15 @@
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\bin\Debug\netcoreapp3.1\SmartPM.Domain.dll
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\obj\Debug\netcoreapp3.1\SmartPM.Infra.Data.csprojAssemblyReference.cache
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\obj\Debug\netcoreapp3.1\SmartPM.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\obj\Debug\netcoreapp3.1\SmartPM.Infra.Data.AssemblyInfo.cs
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\bin\Debug\netcoreapp3.1\SmartPM.Infra.Data.deps.json
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\bin\Debug\netcoreapp3.1\SmartPM.Infra.Data.runtimeconfig.json
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\bin\Debug\netcoreapp3.1\SmartPM.Infra.Data.runtimeconfig.dev.json
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\bin\Debug\netcoreapp3.1\SmartPM.Infra.Data.dll
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\bin\Debug\netcoreapp3.1\SmartPM.Infra.Data.pdb
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\bin\Debug\netcoreapp3.1\SmartPM.Domain.pdb
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\obj\Debug\netcoreapp3.1\SmartPM.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\obj\Debug\netcoreapp3.1\SmartPM.Infra.Data.csproj.CopyComplete
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\obj\Debug\netcoreapp3.1\SmartPM.Infra.Data.dll
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\obj\Debug\netcoreapp3.1\SmartPM.Infra.Data.pdb
+C:\Users\fmbju\source\repos\SmartPM\SmartPM.Infra.Data\obj\Debug\netcoreapp3.1\SmartPM.Infra.Data.genruntimeconfig.cache
