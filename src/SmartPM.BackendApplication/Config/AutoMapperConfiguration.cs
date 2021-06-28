@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.Extensions.DependencyInjection;
 using SmartPM.BackendApplication.Models.Category;
+using SmartPM.BackendApplication.Models.ImageProduct;
 using SmartPM.BackendApplication.Models.Product;
 using SmartPM.Domain.Entities;
 using System;
@@ -26,6 +27,12 @@ namespace SmartPM.BackendApplication.Config
                 config.CreateMap<CreateProduct, Product>();
                 config.CreateMap<UpdateProduct, Product>();
                 config.CreateMap<Product, ProductModel>();
+
+                //ImageProduct
+                config.CreateMap<CreateImageProduct, ImageProduct>();
+                config.CreateMap<UpdateImageProduct, ImageProduct>();
+                config.CreateMap<ImageProduct, ImageProductModel>();
+
             }).CreateMapper());
         }
     }

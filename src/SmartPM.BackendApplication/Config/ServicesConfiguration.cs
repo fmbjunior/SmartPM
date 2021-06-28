@@ -20,6 +20,9 @@ namespace SmartPM.BackendApplication.Config
             //Product
             services.AddScoped<IBaseRepository<Product>, BaseRepository<Product>>();
             services.AddScoped<IBaseService<Product>, BaseService<Product>>();
+            //ImageProduct
+            services.AddScoped<IBaseRepository<ImageProduct>, BaseRepository<ImageProduct>>();
+            services.AddScoped<IBaseService<ImageProduct>, BaseService<ImageProduct>>();
         }
     }
 }
